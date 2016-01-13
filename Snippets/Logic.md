@@ -8,6 +8,8 @@ let scale:Int = 8
 if scale < 10 {
     print("Less than 10")
 }
+
+// Less than 10
 ```
 
 ```swift
@@ -18,12 +20,16 @@ if hat == "Fedora" {
 } else {
     print("Hat is not a Fedora.")
 }
+
+// Hat is not a Fedora.
 ```
 
 ```swift
 let hat:String = "Fez"
 
 if !hat.isEmpty {
-    print("You are wearing a hat")
+    print("You are wearing a hat.")
 }
+
+// You are wearing a hat
 ```
