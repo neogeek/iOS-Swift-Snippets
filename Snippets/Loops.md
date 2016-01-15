@@ -5,6 +5,22 @@
 ```swift
 let values = [1, 2, 3, 4, 5]
 
+for value in values {
+
+    print(value)
+
+}
+
+// 1
+// 2
+// 3
+// 4
+// 5
+```
+
+```swift
+let values = [1, 2, 3, 4, 5]
+
 for (key, value) in values.enumerate() {
 
     print(values[key])
