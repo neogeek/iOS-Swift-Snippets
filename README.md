@@ -12,5 +12,6 @@ This is a collection of snippets that I have been referencing quite a bit while 
 - [Loops](Snippets/Loops.md)
 - [NSUserDefaults](Snippets/NSUserDefaults.md)
 - [UILabel](Snippets/UILabel.md)
+- [UITextField](Snippets/UITextField.md)
 
 ## Reference
