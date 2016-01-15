@@ -11,5 +11,6 @@ This is a collection of snippets that I have been referencing quite a bit while 
 - [Logic](Snippets/Logic.md)
 - [Loops](Snippets/Loops.md)
 - [NSUserDefaults](Snippets/NSUserDefaults.md)
+- [UILabel](Snippets/UILabel.md)
 
 ## Reference
