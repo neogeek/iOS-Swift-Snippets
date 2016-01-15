@@ -5,7 +5,7 @@ override func viewDidLoad() {
 
     super.viewDidLoad()
 
-    let textField = UITextField(frame: CGRectMake(0, 20, self.view.bounds.width, 21))
+    let textField = UITextField(frame: CGRect(x: 0, y: 20, width: self.view.bounds.width, height: 21))
     textField.borderStyle = UITextBorderStyle.Line
     textField.placeholder = "Email address"
     self.view.addSubview(textField)
