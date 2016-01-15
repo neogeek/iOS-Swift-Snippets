@@ -26,7 +26,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
         let cell = UITableViewCell(style: UITableViewCellStyle.Default, reuseIdentifier: "Cell")
 
-        cell.textLabel?.text = "Test " + String(indexPath.row + 1)
+        cell.textLabel?.text = "Test \(indexPath.row + 1)"
 
         return cell
 
