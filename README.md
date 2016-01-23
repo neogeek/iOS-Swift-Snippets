@@ -15,5 +15,6 @@ This is a collection of snippets that I have been referencing quite a bit while 
 - [UILabel](Snippets/UILabel.md)
 - [UITableView](Snippets/UITableView.md)
 - [UITextField](Snippets/UITextField.md)
+- [Variables](Snippets/Variables.md)
 
 ## Reference
