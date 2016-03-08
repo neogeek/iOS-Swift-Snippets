@@ -1,6 +1,8 @@
 # UIButton
 
 ```swift
+import UIKit
+
 override func viewDidLoad() {
 
     super.viewDidLoad()
