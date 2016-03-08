@@ -9,8 +9,8 @@ This is a collection of snippets that I have been referencing quite a bit while 
 ## Table of Contents
 
 - [Logic](Snippets/Logic.md)
-    - [If Statements](Snippets/if-statements.md)
-    - [Case Statements](Snippets/case-statements.md)
+    - [If Statements](Snippets/Logic.md#if-statements.md)
+    - [Case Statements](Snippets/Logic.md#case-statements.md)
 - [Loops](Snippets/Loops.md)
     - [For Loop](Snippets/Loops.md#for-loop)
     - [While Loop](Snippets/Loops.md#while-loop)
