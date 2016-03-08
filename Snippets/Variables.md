@@ -34,6 +34,18 @@ var food:[String] = ["French Fries", "Pizza", "Pasta"]
 var programmingSkillLevels:[String: Int] = ["JavaScript": 11, "HTML": 10, "CSS": 10, "Swift": 1]
 ```
 
+### Return Array of Keys
+
+```swift
+print(Array(programmingSkillLevels).keys)
+```
+
+### Deleting By Key
+
+```swift
+programmingSkillLevels.removeValueForKey("JavaScript")
+```
+
 ## ENUM
 
 ```swift
