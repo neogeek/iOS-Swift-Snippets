@@ -48,6 +48,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 ```swift
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
+    @IBOutlet weak var tableView: UITableView!
+
     // ...
 
     func tableView(tableView: UITableView, editActionsForRowAtIndexPath indexPath: NSIndexPath) -> [UITableViewRowAction]? {
