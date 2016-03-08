@@ -11,6 +11,7 @@ This is a collection of snippets that I have been referencing quite a bit while 
 - [Logic](Snippets/Logic.md)
 - [Loops](Snippets/Loops.md)
 - [NSUserDefaults](Snippets/NSUserDefaults.md)
+- [UIAlertController](Snippets/UIAlertController.md)
 - [UIButton](Snippets/UIButton.md)
 - [UILabel](Snippets/UILabel.md)
 - [UITableView](Snippets/UITableView.md)
