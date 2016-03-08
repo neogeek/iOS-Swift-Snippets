@@ -32,6 +32,12 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
     }
 
+    override func viewDidAppear(animated: Bool) {
+
+        self.tableView.reloadData()
+
+    }
+
 }
 ```
 
