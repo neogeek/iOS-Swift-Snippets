@@ -9,7 +9,11 @@ This is a collection of snippets that I have been referencing quite a bit while 
 ## Table of Contents
 
 - [Logic](Snippets/Logic.md)
+    - [If Statements](Snippets/if-statements.md)
+    - [Case Statements](Snippets/case-statements.md)
 - [Loops](Snippets/Loops.md)
+    - [For Loop](Snippets/Loops.md#for-loop)
+    - [While Loop](Snippets/Loops.md#while-loop)
 - [NSUserDefaults](Snippets/NSUserDefaults.md)
 - [UIAlertController](Snippets/UIAlertController.md)
 - [UIButton](Snippets/UIButton.md)
@@ -18,5 +22,11 @@ This is a collection of snippets that I have been referencing quite a bit while 
     - [UITableViewRowAction](Snippets/UITableView.md#uitableviewrowaction)
 - [UITextField](Snippets/UITextField.md)
 - [Variables](Snippets/Variables.md)
+    - [Constant](Snippets/Variables.md#constant)
+    - [String](Snippets/Variables.md#string)
+    - [Number](Snippets/Variables.md#number)
+    - [Array](Snippets/Variables.md#array)
+    - [Dictionary](Snippets/Variables.md#dictionary)
+    - [ENUM](Snippets/Variables.md#enum)
 
 ## Reference
