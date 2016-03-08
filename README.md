@@ -15,6 +15,7 @@ This is a collection of snippets that I have been referencing quite a bit while 
 - [UIButton](Snippets/UIButton.md)
 - [UILabel](Snippets/UILabel.md)
 - [UITableView](Snippets/UITableView.md)
+    - [UITableViewRowAction](Snippets/UITableView.md#UITableViewRowAction)
 - [UITextField](Snippets/UITextField.md)
 - [Variables](Snippets/Variables.md)
 

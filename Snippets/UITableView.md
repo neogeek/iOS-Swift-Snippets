@@ -42,3 +42,27 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 ```
 
 <a href="http://i.imgur.com/1yK2MJI.png"><img src="http://i.imgur.com/1yK2MJI.png" height="400"></a>
+
+## UITableViewRowAction
+
+```swift
+class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+
+    // ...
+
+    func tableView(tableView: UITableView, editActionsForRowAtIndexPath indexPath: NSIndexPath) -> [UITableViewRowAction]? {
+
+        let delete = UITableViewRowAction(style: .Destructive, title: "Delete") { (action, indexPath) in
+
+            tableView.deleteRowsAtIndexPaths([indexPath], withRowAnimation: UITableViewRowAnimation.Automatic)
+
+        }
+
+        return [delete]
+
+    }
+
+    // ...
+
+}
+```
