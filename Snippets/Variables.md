@@ -28,6 +28,12 @@ var currentLevel:Double = 31.5
 var food:[String] = ["French Fries", "Pizza", "Pasta"]
 ```
 
+### Deleting by Index
+
+```swift
+food.removeAtIndex(1)
+```
+
 ## Dictionary
 
 ```swift
@@ -40,7 +46,7 @@ var programmingSkillLevels:[String: Int] = ["JavaScript": 11, "HTML": 10, "CSS":
 print(Array(programmingSkillLevels).keys)
 ```
 
-### Deleting By Key
+### Deleting by Key
 
 ```swift
 programmingSkillLevels.removeValueForKey("JavaScript")
