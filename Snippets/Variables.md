@@ -28,6 +28,18 @@ var currentLevel:Double = 31.5
 var food:[String] = ["French Fries", "Pizza", "Pasta"]
 ```
 
+### Append Value
+
+```swift
+food.append("Ice Cream")
+```
+
+### Prepend Value
+
+```swift
+food.insert("Ice Cream", atIndex: 0)
+```
+
 ### Deleting by Index
 
 ```swift
