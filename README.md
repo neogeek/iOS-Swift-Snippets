@@ -14,6 +14,7 @@ This is a collection of snippets that I have been referencing quite a bit while 
 - [Loops](Snippets/Loops.md)
     - [For Loop](Snippets/Loops.md#for-loop)
     - [While Loop](Snippets/Loops.md#while-loop)
+- [NSCoding](Snippets/NSCoding.md)
 - [NSUserDefaults](Snippets/NSUserDefaults.md)
 - [UIAlertController](Snippets/UIAlertController.md)
 - [UIButton](Snippets/UIButton.md)
